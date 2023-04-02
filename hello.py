@@ -1,0 +1,13 @@
+
+a = input()
+a = int(a)
+b = input()
+b = int(b)
+c = input()
+c = int(c)
+d = input()
+d = int(d)
+e = input()
+e = int(e)
+print('Пользовател вывел числа их сумма:')
+print(a+b+c+d+e) 
